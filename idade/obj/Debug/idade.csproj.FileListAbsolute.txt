@@ -1,0 +1,10 @@
+C:\Users\nico\source\repos\idade\bin\Debug\idade.exe.config
+C:\Users\nico\source\repos\idade\bin\Debug\idade.exe
+C:\Users\nico\source\repos\idade\bin\Debug\idade.pdb
+C:\Users\nico\source\repos\idade\obj\Debug\idade.csproj.AssemblyReference.cache
+C:\Users\nico\source\repos\idade\obj\Debug\idade.Form1.resources
+C:\Users\nico\source\repos\idade\obj\Debug\idade.Properties.Resources.resources
+C:\Users\nico\source\repos\idade\obj\Debug\idade.csproj.GenerateResource.cache
+C:\Users\nico\source\repos\idade\obj\Debug\idade.csproj.CoreCompileInputs.cache
+C:\Users\nico\source\repos\idade\obj\Debug\idade.exe
+C:\Users\nico\source\repos\idade\obj\Debug\idade.pdb

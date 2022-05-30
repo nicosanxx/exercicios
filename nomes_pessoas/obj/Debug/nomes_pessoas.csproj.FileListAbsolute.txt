@@ -1,0 +1,10 @@
+C:\Users\nico\source\repos\nomes_pessoas\bin\Debug\nomes_pessoas.exe.config
+C:\Users\nico\source\repos\nomes_pessoas\bin\Debug\nomes_pessoas.exe
+C:\Users\nico\source\repos\nomes_pessoas\bin\Debug\nomes_pessoas.pdb
+C:\Users\nico\source\repos\nomes_pessoas\obj\Debug\nomes_pessoas.csproj.AssemblyReference.cache
+C:\Users\nico\source\repos\nomes_pessoas\obj\Debug\nomes_pessoas.Form1.resources
+C:\Users\nico\source\repos\nomes_pessoas\obj\Debug\nomes_pessoas.Properties.Resources.resources
+C:\Users\nico\source\repos\nomes_pessoas\obj\Debug\nomes_pessoas.csproj.GenerateResource.cache
+C:\Users\nico\source\repos\nomes_pessoas\obj\Debug\nomes_pessoas.csproj.CoreCompileInputs.cache
+C:\Users\nico\source\repos\nomes_pessoas\obj\Debug\nomes_pessoas.exe
+C:\Users\nico\source\repos\nomes_pessoas\obj\Debug\nomes_pessoas.pdb

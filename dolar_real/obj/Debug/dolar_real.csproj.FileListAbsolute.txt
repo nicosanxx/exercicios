@@ -1,0 +1,10 @@
+C:\Users\nico\source\repos\dolar_real\bin\Debug\dolar_real.exe.config
+C:\Users\nico\source\repos\dolar_real\bin\Debug\dolar_real.exe
+C:\Users\nico\source\repos\dolar_real\bin\Debug\dolar_real.pdb
+C:\Users\nico\source\repos\dolar_real\obj\Debug\dolar_real.csproj.AssemblyReference.cache
+C:\Users\nico\source\repos\dolar_real\obj\Debug\dolar_real.Form1.resources
+C:\Users\nico\source\repos\dolar_real\obj\Debug\dolar_real.Properties.Resources.resources
+C:\Users\nico\source\repos\dolar_real\obj\Debug\dolar_real.csproj.GenerateResource.cache
+C:\Users\nico\source\repos\dolar_real\obj\Debug\dolar_real.csproj.CoreCompileInputs.cache
+C:\Users\nico\source\repos\dolar_real\obj\Debug\dolar_real.exe
+C:\Users\nico\source\repos\dolar_real\obj\Debug\dolar_real.pdb

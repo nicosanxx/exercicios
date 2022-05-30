@@ -1,0 +1,10 @@
+C:\Users\nico\source\repos\notas_media\bin\Debug\notas_media.exe.config
+C:\Users\nico\source\repos\notas_media\bin\Debug\notas_media.exe
+C:\Users\nico\source\repos\notas_media\bin\Debug\notas_media.pdb
+C:\Users\nico\source\repos\notas_media\obj\Debug\notas_media.csproj.AssemblyReference.cache
+C:\Users\nico\source\repos\notas_media\obj\Debug\notas_media.Form1.resources
+C:\Users\nico\source\repos\notas_media\obj\Debug\notas_media.Properties.Resources.resources
+C:\Users\nico\source\repos\notas_media\obj\Debug\notas_media.csproj.GenerateResource.cache
+C:\Users\nico\source\repos\notas_media\obj\Debug\notas_media.csproj.CoreCompileInputs.cache
+C:\Users\nico\source\repos\notas_media\obj\Debug\notas_media.exe
+C:\Users\nico\source\repos\notas_media\obj\Debug\notas_media.pdb

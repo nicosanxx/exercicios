@@ -1,0 +1,10 @@
+C:\Users\nico\source\repos\celsius_para_fahrenheit\bin\Debug\celsius_para_fahrenheit.exe.config
+C:\Users\nico\source\repos\celsius_para_fahrenheit\bin\Debug\celsius_para_fahrenheit.exe
+C:\Users\nico\source\repos\celsius_para_fahrenheit\bin\Debug\celsius_para_fahrenheit.pdb
+C:\Users\nico\source\repos\celsius_para_fahrenheit\obj\Debug\celsius_para_fahrenheit.csproj.AssemblyReference.cache
+C:\Users\nico\source\repos\celsius_para_fahrenheit\obj\Debug\celsius_para_fahrenheit.Form1.resources
+C:\Users\nico\source\repos\celsius_para_fahrenheit\obj\Debug\celsius_para_fahrenheit.Properties.Resources.resources
+C:\Users\nico\source\repos\celsius_para_fahrenheit\obj\Debug\celsius_para_fahrenheit.csproj.GenerateResource.cache
+C:\Users\nico\source\repos\celsius_para_fahrenheit\obj\Debug\celsius_para_fahrenheit.csproj.CoreCompileInputs.cache
+C:\Users\nico\source\repos\celsius_para_fahrenheit\obj\Debug\celsius_para_fahrenheit.exe
+C:\Users\nico\source\repos\celsius_para_fahrenheit\obj\Debug\celsius_para_fahrenheit.pdb

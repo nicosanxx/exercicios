@@ -1,0 +1,10 @@
+C:\Users\nico\source\repos\cauculo_media_alunos\bin\Debug\cauculo_media_alunos.exe.config
+C:\Users\nico\source\repos\cauculo_media_alunos\bin\Debug\cauculo_media_alunos.exe
+C:\Users\nico\source\repos\cauculo_media_alunos\bin\Debug\cauculo_media_alunos.pdb
+C:\Users\nico\source\repos\cauculo_media_alunos\obj\Debug\cauculo_media_alunos.csproj.AssemblyReference.cache
+C:\Users\nico\source\repos\cauculo_media_alunos\obj\Debug\cauculo_media_alunos.Form1.resources
+C:\Users\nico\source\repos\cauculo_media_alunos\obj\Debug\cauculo_media_alunos.Properties.Resources.resources
+C:\Users\nico\source\repos\cauculo_media_alunos\obj\Debug\cauculo_media_alunos.csproj.GenerateResource.cache
+C:\Users\nico\source\repos\cauculo_media_alunos\obj\Debug\cauculo_media_alunos.csproj.CoreCompileInputs.cache
+C:\Users\nico\source\repos\cauculo_media_alunos\obj\Debug\cauculo_media_alunos.exe
+C:\Users\nico\source\repos\cauculo_media_alunos\obj\Debug\cauculo_media_alunos.pdb

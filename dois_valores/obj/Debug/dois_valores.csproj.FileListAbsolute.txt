@@ -1,0 +1,10 @@
+C:\Users\nico\source\repos\dois_valores\bin\Debug\dois_valores.exe.config
+C:\Users\nico\source\repos\dois_valores\bin\Debug\dois_valores.exe
+C:\Users\nico\source\repos\dois_valores\bin\Debug\dois_valores.pdb
+C:\Users\nico\source\repos\dois_valores\obj\Debug\dois_valores.csproj.AssemblyReference.cache
+C:\Users\nico\source\repos\dois_valores\obj\Debug\dois_valores.Form1.resources
+C:\Users\nico\source\repos\dois_valores\obj\Debug\dois_valores.Properties.Resources.resources
+C:\Users\nico\source\repos\dois_valores\obj\Debug\dois_valores.csproj.GenerateResource.cache
+C:\Users\nico\source\repos\dois_valores\obj\Debug\dois_valores.csproj.CoreCompileInputs.cache
+C:\Users\nico\source\repos\dois_valores\obj\Debug\dois_valores.exe
+C:\Users\nico\source\repos\dois_valores\obj\Debug\dois_valores.pdb
